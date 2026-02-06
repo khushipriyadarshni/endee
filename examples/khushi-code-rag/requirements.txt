@@ -1,0 +1,7 @@
+openai
+streamlit
+gitpython
+langchain
+langchain-text-splitters
+python-dotenv
+tiktoken
