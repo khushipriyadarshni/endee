@@ -14,6 +14,18 @@ The project is implemented directly inside a **fork of the Endee repository**, d
 
 ---
 
+## Demo, Screenshots & Report
+
+📁 **Project Demo Assets (Screenshots + PDF Report):**  
+🔗 https://bit.ly/khushi_drive
+
+This folder contains:
+- Application UI screenshots
+- End-to-end RAG pipeline execution proof
+- Project report (PDF) explaining implementation details
+
+---
+
 ## Problem Statement
 
 Understanding large codebases is time-consuming and inefficient.
