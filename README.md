@@ -1,3 +1,16 @@
+## 📌 Endee Labs Project Submission
+
+Submitted Project:
+➡ examples/khushi-code-rag
+
+Project Title: AI Codebase Intelligence using Endee
+Use Case: Retrieval-Augmented Generation (RAG)
+Vector Database: Endee
+
+Please navigate to the above folder for complete implementation and documentation.
+
+---
+
 # Endee: High-Performance Open Source Vector Database
 
 **Endee (nD)** is a specialized, high-performance vector database built for speed and efficiency. This guide covers supported platforms, dependency requirements, and detailed build instructions using both our automated installer and manual CMake configuration.
